@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">IG Layout</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_me">Me</string>
 </resources>
