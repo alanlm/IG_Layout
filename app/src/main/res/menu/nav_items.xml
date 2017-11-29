@@ -12,9 +12,9 @@
         android:icon="@drawable/icon_nav_explore"
         />
     <item
-        android:id="@+id/bottom_nav_gallery"
-        android:title="@string/nav_gallery"
-        android:icon="@drawable/icon_nav_gallery"
+        android:id="@+id/bottom_nav_share"
+        android:title="@string/nav_share"
+        android:icon="@drawable/icon_nav_share"
         />
     <item
         android:id="@+id/bottom_nav_notifications"
