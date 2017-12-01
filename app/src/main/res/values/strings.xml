@@ -5,4 +5,6 @@
     <string name="nav_share">Share</string>
     <string name="nav_notifications">Notifications</string>
     <string name="nav_me">Me</string>
+    <string name="notifications_following">Following</string>
+    <string name="notifications_you">You</string>
 </resources>
